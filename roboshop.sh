@@ -1,7 +1,7 @@
 
 
-AMI=ami-0f3c7d07486cad139
-SG_ID=sg-02cd2457826a3b260 #replace with your SG ID
+AMI=ami-0b4f379183e5706b9 #this keeps on changing 
+SG_ID=sg-03878c39dc8a089a1 #replace with your SG ID
 INSTANCES=("mongodb" "redis" "mysql" "rabbitmq" "catalogue" "user" "cart" "shipping" "payment" "dispatch" "web")
 ZONE_ID=Z0251190AS2ECJ9G31JH # replace your zone ID
 DOMAIN_NAME="rajesh76.online"
